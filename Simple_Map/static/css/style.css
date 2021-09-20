@@ -1,0 +1,8 @@
+html,
+body,
+#mapid {
+  width: 100%;   /* references the <div> element of the html file  */
+  height: 100%;  /* note that the mapid lives within this particular div */ 
+  padding: 0;
+  margin: 0;
+}
